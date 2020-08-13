@@ -48,6 +48,25 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+.topTop {
+  padding-top: 5em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+}
+
+.logoTop {
+  width:50%;
+  margin: 0em;
+}
+
+.mission {
+  margin-top:3em;
+  margin-bottom:2em;
+justify-content: center;
+align-items: center;
+
+}
+
 body {
   margin: 0;
   font-family: "SB Body", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
