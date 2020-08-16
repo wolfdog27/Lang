@@ -1,0 +1,12 @@
+{
+    "name": "BHM",
+    "version": "1.0.0",
+    "description": "Lang",
+    "main": "server.js",
+    "dependencies": {
+       "express": "^4.16.3"
+    },
+    "scripts": {
+      "start": "node server.js"
+    }
+  }
